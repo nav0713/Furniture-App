@@ -1,6 +1,15 @@
-# furniture
+# furniture app ui
 
-A new Flutter project.
+A Furniture Mobile Application UI built using Flutter/Dart
+
+
+<div style=display="inline-block";>
+       <img src="https://github.com/nav0713/images/blob/master/furniture1.png" width="200" height="400" title="hover text">
+       <img src="https://github.com/nav0713/images/blob/master/furniture2.png" width="200" height="400" title="hover text">
+       <h3>         Application Demo</h3>
+ <img src="https://github.com/nav0713/images/blob/master/furniture%20demo.gif" title="hover text">
+
+  </div>
 
 ## Getting Started
 
